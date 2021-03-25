@@ -1,2 +1,2 @@
-source 'htt<ps://rubygems.org'
+source 'https://rubygems.org'
 gem "minimal-mistakes-jekyll"
